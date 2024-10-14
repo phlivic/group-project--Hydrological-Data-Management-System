@@ -1,0 +1,2 @@
+"STNM"	"STCD"	"BSHNCD"	"SETDATEY"	"SETDATEM"	"SLPRV"	"SLCT"	"SLCO"	"SLTO"	"SLST"	"AGUN"	"LGTDD"	"LGTDM"	"LGTDS"	"LTTDD"	"LTTDM"	"LTTDS"	"TSMD"	"NT"
+"宜昌蒸发"	"60540350"	"F"								"长江委水文局"							"人工"	
